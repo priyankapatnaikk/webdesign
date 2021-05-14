@@ -6,4 +6,15 @@ This is an front end project by using reactjs.
 *font style in italic* Don't give space after*
 **font style in bold** Don't give space after**
 ***font style in both bold and italic*** Don't give space after***
-
+font stle emphasis
+# Unordered list
+* Fruits
+* vegetables
+   * carrot
+   * beetroot
+   * onion
+## Ordered List
+1. Alphabets
+2. Integers
+     1. whole numbers
+     2. real numbers 
