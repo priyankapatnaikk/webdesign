@@ -18,5 +18,6 @@ font stle emphasis
 2. Integers
      1. whole numbers
      2. real numbers 
-![Apple](
+  
+![Apple](https://images.pexels.com/photos/1630588/pexels-photo-1630588.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
