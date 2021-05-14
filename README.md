@@ -30,3 +30,7 @@ print("Hai")
 Table 1 | Table 2
 --------|--------
 Table body1|Table body2
+
+Name|address
+-----|------
+priya|rjy
