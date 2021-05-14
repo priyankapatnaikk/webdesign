@@ -6,7 +6,7 @@ This is an front end project by using reactjs.
 *font style in italic* Don't give space after*
 **font style in bold** Don't give space after**
 ***font style in both bold and italic*** Don't give space after***
-font stle emphasis
+font style emphasis
 # Unordered list
 * Fruits
 * vegetables
@@ -26,3 +26,7 @@ font stle emphasis
 def fun():
 print("Hai")
 ~~~
+
+Table 1 | Table 2
+--------|--------
+Table body1|Table body2
